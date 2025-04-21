@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/9b93b5db13b24b4da2c0f4ff9551cf25?sid=fe6a5ba2-d72f-4aa2-a31e-c630d055c07b' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/1IVJPG6ha9JJxjLuiNvWRmA4dUaE6jbGr/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Walkthrough created with **Loom** edited with **Microsoft Clipchamp**
 
